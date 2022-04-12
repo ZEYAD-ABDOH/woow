@@ -1,0 +1,7 @@
+@font-face {
+    font-family:noto-kufi ;
+    src: url(Cairo/Cairo-VariableFont_wght.ttf);
+}
+body{
+    font-family: noto-kufi;
+}
